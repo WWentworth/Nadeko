@@ -1,5 +1,6 @@
 #nullable disable
 using Cloneable;
+using java.lang;
 using NadekoBot.Common.Yml;
 
 namespace NadekoBot.Modules.Xp;
